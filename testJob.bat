@@ -1,0 +1,1 @@
+java -cp "./alllibs/*;./bin" org.testng.TestNG testng_simple.xml
